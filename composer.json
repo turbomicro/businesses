@@ -1,6 +1,6 @@
 {
-    "name": "inmanturbo/vflat",
-    "type": "project",
+    "name": "turbomicro/businesses",
+    "type": "library",
     "description": "The skeleton application for the Laravel framework, with folio, volt and tailwind pre-installed",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
